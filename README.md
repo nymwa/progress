@@ -2,6 +2,6 @@
 
 ```
 pip install git+https://github.com/nymwa/progress
-cat mofu.txt | python | mofu
+cat some_text.txt | progress | some_command
 ```
 
